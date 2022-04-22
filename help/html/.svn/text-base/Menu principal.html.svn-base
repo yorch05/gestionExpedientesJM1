@@ -1,0 +1,61 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html><head>
+<meta content="text/html; charset=ISO-8859-1" http-equiv="content-type"><title>Menu principal</title>
+
+</head><body style="background-color: rgb(255, 255, 204); color: rgb(0, 0, 0);" alink="#000099" link="#000099" vlink="#990099">
+<h1 style="background-color: rgb(204, 204, 255);">Menú
+principal</h1>
+En esta ventana se ven 3 grupos de botones ( Módulos).<br>
+<br>
+<ol style="background-color: white; font-family: Calibri; font-weight: bold;">
+<li>Expedientes / Actuaciones</li>
+<li>Audiencias</li>
+<li>Información de la Familia</li>
+</ol>
+<h4 style="background-color: rgb(204, 204, 255);"><span style="text-decoration: underline;">1. Módulo: Expedientes /
+Actuaciones</span></h4>
+Se tienen dos funciones:<br>
+<ul>
+<li>Alta: es para ingresar expedientes o actuaciones al sistema
+en la ventana de 
+<a href="Ingresar%20expte.html"> Alta de Expedientes o actuaciones </a></li>
+<li>Consulta: se abre la ventana de <a href="Consultar%20expte.html">Consultas de Expedientes o
+actuaciones</a>, para elegir un parámetro de búsqueda y mostrar los
+resultados en las tablas.</li>
+</ul>
+<h4 style="background-color: rgb(204, 204, 255);"><span style="text-decoration: underline;">2. Módulo: Audiencias</span></h4>
+Se tienen las funciones:<br>
+<ul>
+<li>Agregar: para ingresar al sistema las nuevas audiencias
+fijadas, se abre la ventana de <a href="Agregar%20audiencia.html">Agregar Audiencia</a></li>
+<li>Consultar: se abre la ventana de <a href="Consultar%20expte.html">Consultas de audiencias</a>
+para obtener información sobre&nbsp;las audiencias fijadas. Se
+pueden usar distintos parámetros de búsqueda, listarlas, e imprimirlas.</li>
+</ul>
+<h4 style="background-color: rgb(204, 204, 255);"><span style="text-decoration: underline;">3. Módulo: Información
+de la Familia</span></h4>
+Se tienen 3 funciones:<br>
+<ul>
+<li>Ingresar: para ingresar al sistema información acerca del
+grupo conviviente y situación de un menor, se abre la ventana de <a href="Ingresar%20infoFlia.html">Ingresar Información del menor</a></li>
+<li>Mostrar: se obtiene información deseada mediante el ingreso
+de un &nbsp;número de expediente específico y se obtiene
+información a través de cálculos estadísticos sobre varios aspectos en
+relación al grupo conviviente del menor y sobre el menor mismo en la ventana de <a href="Consultar%20infoFlia.html">Información de menores</a>.&nbsp;</li>
+<li>Modificar: por si es necesaria la modificación de alguno de los
+datos del menor, algún cambio en el grupo conviviente o en su situación
+personal, como por ejemplo escolaridad o trabajo.</li>
+</ul><hr style="width: 100%; height: 2px;"><br><h2 style="background-color: rgb(204, 204, 255);">Barra de Menú&nbsp;</h2>La barra consta de los siguientes items:<br><ol style="background-color: white; font-family: Calibri; font-weight: bold;"><li>Módulos</li><li>Administrador</li><li>Usuarios</li><li>Ayuda</li></ol><h4 style="background-color: rgb(204, 204, 255);"><span style="text-decoration: underline;">1. Módulos</span></h4>En
+este item tenemos las opciones de abrir y/o cerrar cada uno de los
+módulos con &nbsp;los que cuenta el sistema. Inicar cada módulo
+requiere tener nombre de usuario y contraseña para que el acceso sea
+permitido.<br>Si un módulo está abierto, solo se encontrará habilitada
+la opción de "Cerrar Módulo", mientras que la de "Abrir Módulo" solo
+estará habilitada en caso de que el módulo al que se quiera acceder
+esté con sesión sin iniciar.<h4 style="background-color: rgb(204, 204, 255);"><span style="text-decoration: underline;">2. Administrador</span></h4>Sólo el administrador del sistema tiene acceso a las funciones que aquí se encuentran.<br><ul style="background-color: white;"><li><span style="font-weight: bold;">Administrar usuarios:</span> para agregar, borrar usuarios del sistema y/o modificar los permisos de acceso de cada uno.</li><li><span style="font-weight: bold;">Administrar comisarías:</span> para agregar, borrar, modificar nombres de las comisarías o números de teléfonos de la lista de las mismas.</li><li><span style="font-weight: bold;">Administrar unidades judiciales:</span>&nbsp;para agregar, borrar, modificar nombres de unidades judiciales o números de teléfonos de la lista de las mismas</li><li><span style="font-weight: bold;">Administrador el listado de estupefacientes:</span> para agregar, borrar, modificar estupefacientes del listado.</li></ul><h4 style="background-color: rgb(204, 204, 255);"><span style="text-decoration: underline;">3. Usuarios</span></h4>Para
+el usuario, está disponible la opción de modificar su nombre de usuario
+o su contraseña y la de acceder a la agenda del juzgado, donde se
+guardan todos los números de teléfonos de las entidades con las que se
+trabaja, telefono de central, internos del edificio, juzgados vecinos,
+y códigos postales de departamentos de esta provincia.<h4 style="background-color: rgb(204, 204, 255);"><span style="text-decoration: underline;">4. Ayuda</span></h4>Ventana de ayuda e Información sobre el sistema.
+</body></html>

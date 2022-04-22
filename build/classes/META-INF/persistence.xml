@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<persistence version="2.0" xmlns="http://java.sun.com/xml/ns/persistence" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://java.sun.com/xml/ns/persistence http://java.sun.com/xml/ns/persistence/persistence_2_0.xsd">
+  <persistence-unit name="menoresJPAPU" transaction-type="RESOURCE_LOCAL">
+    <provider>org.eclipse.persistence.jpa.PersistenceProvider</provider>
+    <class>entidades.ActaInicial</class>
+    <class>entidades.Audiencia</class>
+    <class>entidades.Causa</class>
+    <class>entidades.CausaCivil</class>
+    <class>entidades.CentralTelefonica</class>
+    <class>entidades.Comisaria</class>
+    <class>entidades.Denunciante</class>
+    <class>entidades.Estupefaciente</class>
+    <class>entidades.Expediente</class>
+    <class>entidades.Fiscal</class>
+    <class>entidades.GrupoConvivencia</class>
+    <class>entidades.Juez</class>
+    <class>entidades.Localidad</class>
+    <class>entidades.Menor</class>
+    <class>entidades.Organismo</class>
+    <class>entidades.Persona</class>
+    <class>entidades.Secretaria</class>
+    <class>entidades.UnidadJudicial</class>
+    <class>entidades.Usuario</class>
+    <properties>
+      <property name="javax.persistence.jdbc.url" value="jdbc:mysql://localhost:3306/menoresjpa"/>
+      <property name="javax.persistence.jdbc.password" value=""/>
+      <property name="javax.persistence.jdbc.driver" value="com.mysql.jdbc.Driver"/>
+      <property name="javax.persistence.jdbc.user" value="root"/>
+      <property name="eclipselink.ddl-generation" value="create-tables"/>
+    </properties>
+  </persistence-unit>
+</persistence>

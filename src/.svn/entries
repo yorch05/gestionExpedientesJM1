@@ -1,0 +1,102 @@
+10
+
+dir
+1
+https://svn.kenai.com/svn/jm1~jm1/src
+https://svn.kenai.com/svn/jm1~jm1
+
+
+
+2011-11-22T02:56:12.721862Z
+1
+yorch
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+c357fc93-1239-49b8-9103-e0f224c59af1
+
+
+
+
+
+
+0
+
+META-INF
+dir
+
+Main.java
+file
+
+
+
+
+2011-10-20T20:50:49.528000Z
+6bef357f0370aba1eb640b0d3727f41c
+2011-11-22T02:56:12.721862Z
+1
+yorch
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+493
+
+controladores
+dir
+
+entidades
+dir
+
+facades
+dir
+
+iconos
+dir
+
+
+
+add
+
+includes
+dir
+
+
+
+add
+
+vistas
+dir
+
+
+
+add
+

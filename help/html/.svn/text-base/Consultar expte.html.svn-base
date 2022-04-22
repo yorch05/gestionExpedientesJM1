@@ -1,0 +1,15 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html><head><meta content="text/html; charset=ISO-8859-1" http-equiv="content-type"><title>Consultar expte</title></head>
+<body style="color: rgb(0, 0, 0); background-color: rgb(255, 255, 204);" alink="#000099" link="#000099" vlink="#990099"><h1 style="background-color: rgb(204, 204, 255);">Consultar&nbsp;expediente o actuación<br></h1>En la ventana se ven 2 secciones:<br>
+<ol style="background-color: white;"><li><span style="font-weight: bold;">Consultas:</span> que consta de casillas de verificación las cuales indican el criterio de búsqueda</li><li><span style="font-weight: bold;">Resultados:</span> Tablas donde se muestra la información obtenida según el parámetro de búsqueda</li></ol><h4 style="background-color: rgb(204, 204, 255);"><span style="text-decoration: underline;">1. Sección: Consultas</span></h4>Elegir
+uno de los parámetros de búsqueda tildando la casilla correspondiente.
+Al hacer esto se habilita el campo de texto para tipear la palabra o
+parámetro, presionar el botón&nbsp;<img style="width: 83px; height: 23px;" alt="boton_buscar" src="imagenes/boton_buscar.JPG" align="middle"> <br><h4 style="background-color: rgb(204, 204, 255);"><span style="text-decoration: underline;">2. Sección: Resultados</span></h4>Los
+resultados se escriben en ambas tablas. Una tabla está relacionada a
+los datos generales personales&nbsp;del menor. La otra tabla está
+relacionada a los datos del menor con respecto al expediente.<br>Si se
+desea obtener información ampliada sobre los resultados obtenidos en
+las tablas, selecciona una fila de la tabla, y se abre una <a href="#Ventana_Informaci%F3n" rel="acquaintance friend" target="_top">nueva ventana</a> que muestra la información ingresada acerca de ese expte.<br><br><hr style="width: 100%; height: 2px;"><br>Presionar el botón&nbsp;<img style="height: 21px; width: 86px;" alt="boton_cerrar" src="imagenes/boton_cerrar_home.jpg" align="middle"> para salir de la ventana de consulta<br><br><br><br><hr style="width: 100%; height: 2px;"><br><h1 style="background-color: rgb(204, 204, 255);"><a name="Ventana_Información"></a>Ventana de Información</h1>Esta
+ventana actúa como la carátula de un expediente o actuación, además de
+proveer otra información, como por ejemplo si está
+archivado ( en caso que se trate de expediente)<br><br>Presionar el botón&nbsp;<img style="height: 25px; width: 154px;" alt="boton_modificar_expte" src="imagenes/boton_modificar_expte.jpg" align="middle"> para abrir una ventana con igual formato de la ventana&nbsp; <span style="font-style: italic;">Ingresar expediente o actuación</span>, cuyos campos se cargan con la información almacenada, y otorga la posibilidad de modificarlos y guardar los cambios.<br><br>Presionar el botón&nbsp;<img style="width: 154px; height: 24px;" alt="boton_eliminar_registro" src="imagenes/boton_eliminar_registro.jpg" align="middle"> para dar de baja el expediente o actuación que se encuentra abierto.</body></html>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='ISO-8859-1'  ?>
+<!DOCTYPE index
+  PUBLIC "-//Sun Microsystems Inc.//DTD JavaHelp Index Version 1.0//EN"
+         "http://java.sun.com/products/javahelp/index_1_0.dtd">
+<index version="1.0">
+        <indexitem text="Índice de Ayuda de JM1"    target="inicio"/>
+
+        <indexitem text="Descripción de menu principal"    target="menu_principal"/>
+
+        <indexitem text="Ingresar expediente"    target="ingresar_expte"/>
+        <indexitem text="Consultar expediente"    target="consultar_expte"/>
+
+        <indexitem text="Agregar audiencia"    target="agregar_audiencia"/>
+        <indexitem text="Consultar audiencia"    target="consultar_audiencia"/>
+
+        <indexitem text="Ingresar información del menor"    target="ingresar_info"/>
+        <indexitem text="Consulta información del menor"    target="consultar_info"/>
+
+</index>

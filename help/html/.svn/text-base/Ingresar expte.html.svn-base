@@ -1,0 +1,22 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html><head><meta content="text/html; charset=ISO-8859-1" http-equiv="content-type"><title>Ingresar expte</title></head>
+<body style="color: rgb(0, 0, 0); background-color: rgb(255, 255, 204);" alink="#000099" link="#000099" vlink="#990099"><h1 style="background-color: rgb(204, 204, 255);">Ingresar Expediente o actuación<br></h1>
+Se puede encontrar en esta ventana 2 secciones<br>
+<ol style="background-color: white;"><li><span style="font-weight: bold;">Expediente o actuación:</span> donde se ingresan todos los datos referentes a la actuación o expediente del menor</li><li><span style="font-weight: bold;">Datos personales:</span> donde se ingresan todos los datos propios al menor. Puede ser más de uno los menores implicados en la causa</li></ol><h4 style="background-color: rgb(204, 204, 255);"><span style="text-decoration: underline;">1. Sección: Expediente o actuación</span></h4>Distintos son los campos que se cargarán en caso de Expediente o actuación<br><br><span style="font-weight: bold;">Expediente:</span><br>Ingresar los datos que tiene la carátula<br><ul style="font-family: Calibri;"><li>número</li><li>año</li><li>causa</li><li>fiscal</li><li>fecha inicio</li></ul>Debido a que el campo "Letra" es obligatorio y no puede estar vacío ingresar "Expte."<br>Los
+demás datos son opcionales pero no obligatorios. Preferentemente
+ingresar también estos para tener información disponible en el momento
+de las consultas.<br><span style="font-weight: bold;">Actuación:</span><br>Ingresar
+todos los datos. La elección de Unidad Judicial o Comisaría es
+excluyente una de otra. Hacer clic en el radio. botón y luego escoger
+la opción correspondiente de la lista que se desplega en el combo.<br><br>Ejemplos de formatos de ingreso:<br><span style="font-weight: bold;">Número:</span> ingresar solamente el número - 123, 455, 327<br><span style="font-weight: bold;">Año:</span> ingresar el año completo - 2008, 2009, 2010<br><span style="font-weight: bold;">Letra</span>: ingresar las letras entre comillas - "D", "R", "C"<br><br><span style="font-style: italic;">nota:
+Si no se ingresaron los campos de Letra, número, año, causa y fiscal,
+al presionar el botón "Guardar" aparecerá un mensaje advirtiendo esto y
+no se guardarán los datos.</span><br><h4 style="background-color: rgb(204, 204, 255);"><span style="text-decoration: underline;">2. Sección: Datos personales</span></h4>Ingresar los datos del menor. Todos son obligatorios, excepto <span style="font-style: italic;">fecha de nacimiento</span>.<br>Al
+tildar la caja opción "Progenitores" se muestra un panel donde se
+pueden ingresar los datos de los progenitores tales como: Nombre,
+apellido y D.N.I. , tanto del padre como de la madre (no son
+obligatorios)<span style="text-decoration: underline;"></span><br><br><span style="font-style: italic;">nota: Si no se ingresaron los campos que son obligatorios aparecerá un mensaje advirtiendo esto y no se guardarán los datos<br><br></span><hr style="width: 100%; height: 2px;"><br>Fuera
+de ambas secciones podemos observar dos botones <img style="width: 212px; height: 23px;" alt="botones_agregar_cancelar" src="imagenes/boton_agregar_cancelar.jpg" align="middle">. <br>Presionar el primero para agregar un menor a la causa en
+caso de que sean más de uno los implicados, quedando vinculados al
+mismo expediente. El segundo botón es para cancelar la vinculación de
+otro menor.<span style="font-style: italic;"></span><br><br>Presionar botón&nbsp;<img style="width: 89px; height: 23px;" alt="boton_guardar" src="imagenes/boton_guardar.JPG" align="middle"> para almacenar todos los datos una vez ya ingresados.<br><br>Presionar botón&nbsp;<img style="width: 88px; height: 23px;" alt="boton_limpiar" src="imagenes/boton_limpiar.jpg" align="middle"> para borrar el contenido de todos los campos y no guardarlos.<br><br>Presionar botón&nbsp;<img style="width: 85px; height: 23px;" alt="boton_cerrar" src="imagenes/boton_cerrar.jpg" align="middle"> para salir de la ventana sin guardar los cambios.&nbsp;<br><br></body></html>

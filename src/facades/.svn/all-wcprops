@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/jm1~jm1/!svn/ver/1/src/facades
+END
+ComisariaFacade.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/jm1~jm1/!svn/ver/1/src/facades/ComisariaFacade.java
+END
+CausaCivilFacade.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/jm1~jm1/!svn/ver/1/src/facades/CausaCivilFacade.java
+END
+UsuarioFacade.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/jm1~jm1/!svn/ver/1/src/facades/UsuarioFacade.java
+END
+PersonaFacade.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/jm1~jm1/!svn/ver/1/src/facades/PersonaFacade.java
+END
+DenuncianteFacade.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/jm1~jm1/!svn/ver/1/src/facades/DenuncianteFacade.java
+END
+LocalidadFacade.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/jm1~jm1/!svn/ver/1/src/facades/LocalidadFacade.java
+END
+GrupoConvivenciaFacade.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/jm1~jm1/!svn/ver/1/src/facades/GrupoConvivenciaFacade.java
+END
+ExpedienteFacade.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/jm1~jm1/!svn/ver/1/src/facades/ExpedienteFacade.java
+END
+ActaInicialFacade.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/jm1~jm1/!svn/ver/1/src/facades/ActaInicialFacade.java
+END
+CausaFacade.java
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/jm1~jm1/!svn/ver/1/src/facades/CausaFacade.java
+END
+CentralTelefonicaFacade.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/jm1~jm1/!svn/ver/1/src/facades/CentralTelefonicaFacade.java
+END
+JuezFacade.java
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/jm1~jm1/!svn/ver/1/src/facades/JuezFacade.java
+END
+EstupefacienteFacade.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/jm1~jm1/!svn/ver/1/src/facades/EstupefacienteFacade.java
+END
+FiscalFacade.java
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/jm1~jm1/!svn/ver/1/src/facades/FiscalFacade.java
+END
+OrganismoFacade.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/jm1~jm1/!svn/ver/1/src/facades/OrganismoFacade.java
+END
+MenorFacade.java
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/jm1~jm1/!svn/ver/2/src/facades/MenorFacade.java
+END
+SecretariaFacade.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/jm1~jm1/!svn/ver/1/src/facades/SecretariaFacade.java
+END
+AudienciaFacade.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/jm1~jm1/!svn/ver/2/src/facades/AudienciaFacade.java
+END
+UnidadJudicialFacade.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/jm1~jm1/!svn/ver/1/src/facades/UnidadJudicialFacade.java
+END

@@ -1,0 +1,122 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html><head>
+
+  <meta content="text/html; charset=ISO-8859-1" http-equiv="content-type">
+  <title>Consultar audiencia</title></head>
+
+<body style="color: rgb(0, 0, 0); background-color: rgb(255, 255, 204);" alink="#000099" link="#000099" vlink="#990099">
+
+<h1 style="background-color: rgb(204, 204, 255);">Consultar audiencia:</h1>
+
+A veces es
+necesario consultar cuáles fueron las audiencias fijadas,
+fechas, horarios.<br>
+
+Las consultas pueden ser realizadas por los siguientes
+parámetros:<br>
+
+<ol style="color: black; background-color: white; font-family: Calibri;">
+
+  <li style="font-weight: bold;">Menor</li>
+
+  <li style="font-weight: bold;">Nº
+de Expte</li>
+
+  <li style="font-weight: bold;">Día
+de la audiencia</li>
+
+  <li style="font-weight: bold;">Mes
+de la audiencia</li>
+
+  <li style="font-weight: bold;">Fecha
+de la audiencia</li>
+
+</ol>
+
+De acuerdo a
+lo que se desea conocer se presiona uno de los botones que inhabilita
+el uso de los demás, se ingresa el parámetro a
+buscar y se presiona&nbsp;<img style="width: 83px; height: 23px;" alt="boton buscar" src="imagenes/boton_buscar.JPG" align="middle"> y si existen registros que contengan el
+parámetro se los muestra en la tabla.<br><br>
+
+<span style="font-weight: bold;">
+1.</span> Para buscar una audiencia de un menor en particular se
+deben ingresar apellido y nombre:<br><br>
+
+<div style="text-align: center;"><span style="font-weight: bold; font-family: Calibri;">APELLIDO, Nombre1 Nombre2</span><br>
+
+</div>
+
+<br>Ejemplo: "PEREZ, Juan Manuel"<br>
+
+<span style="font-style: italic;">Nota: no es necesario
+respeta las mayúsculas</span><span style="font-weight: bold;"><br>
+
+</span><span style="font-weight: bold;"><br></span><hr style="width: 100%; height: 2px;"><span style="font-weight: bold;"><br>
+
+</span><span style="font-weight: bold;">
+2.</span> Para buscar por número de expediente se debe
+ingresar con el siguiente formato:<br><br><span style="font-style: italic;">
+
+</span>
+<div style="text-align: center;"><span style="font-weight: bold;"><span style="font-family: Calibri;">****/**</span><br>
+
+</span>
+<div style="text-align: left;">Ejemplo: " 1234/10 "<span style="font-weight: bold;"></span><br>
+
+<span style="font-weight: bold;"></span></div>
+
+<span style="font-style: italic;"></span></div>
+
+<span style="font-style: italic;"><br></span><hr style="width: 100%; height: 2px;"><span style="font-style: italic;"><br>
+
+</span><span style="font-weight: bold;">3.</span> Este tipo de
+búsqueda devuelve los resultados que coincidan con el
+parámetro ingresado. Si se ingresa "12 "<span style="font-style: italic;"></span>, se
+mostrarán todas las audiencias que se hagan el
+día 12, aunque se traten de meses distintos.<span style="font-weight: bold;"></span><br>
+
+<br><hr style="width: 100%; height: 2px;"><br>
+
+<span style="font-weight: bold;">
+4.</span> De la misma manera que el anterior tipo de
+búsqueda, si se ingresa un número determinado de
+mes, se mostrarán todas las audiencias del mes ingresado<br>
+
+<br><hr style="width: 100%; height: 2px;"><br>
+
+<span style="font-weight: bold;">5.</span> Para buscar una
+audiencia fijada por fecha se debe ingresar los datos con el siguiente
+formato:<br><br>
+
+<div style="text-align: center;"><span style="font-weight: bold; font-family: Calibri;">dd/mm/aa</span><br>
+
+</div>
+
+<br>
+
+En la parte inferior de la ventana se encuentran 3 botones:<br>
+
+
+<ul>
+
+  <li><img style="width: 121px; height: 23px;" alt="boton_mostrar_hoy" src="imagenes/boton_mostrar_hoy.jpg" align="middle"> &nbsp;devuelve como resultados las audiencias fijadas para el día
+presente.</li><br>
+
+  
+
+  <li><img style="width: 120px; height: 23px;" alt="boton_mostrar_todos" src="imagenes/boton_mostrar_todos.jpg" align="middle"> &nbsp;devuelve todas las audiencias fijadas, incluyendo las
+que ya fueron realizadas.</li></ul><ul><li><img style="width: 120px; height: 23px;" alt="boton_imprimir" src="imagenes/boton_imprimir.jpg" align="middle"> &nbsp;permite imprimir el listado que se esté
+visualizando en la tabla de resultados.</li></ul><ul>
+
+</ul>
+
+
+
+<br>
+
+El sistema se encarga de borrar de la base de datos aquellas audiencias
+que fueron realizadas y que haya transcurrido un tiempo de 2 meses
+desde el día en que se llevó a cabo.<span style="font-family: Arial Unicode MS;">
+</span>
+</body></html>

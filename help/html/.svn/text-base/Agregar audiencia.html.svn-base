@@ -1,0 +1,84 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html><head>
+
+
+  
+  
+  <meta content="text/html; charset=ISO-8859-1" http-equiv="content-type">
+
+
+  
+  
+  <title>Agregar audiencia</title></head>
+<body style="color: rgb(0, 0, 0); background-color: rgb(255, 255, 204);" alink="#000099" link="#000099" vlink="#990099"><h1 style="background-color: rgb(204, 204, 255);">Agregar audiencia:</h1>Introducir los mismos datos que en el cuaderno de audiencias:<br>
+<ol style="font-family: Calibri; color: black; font-weight: bold; background-color: white;">
+  <li>Menor</li>
+  <li>Fecha: compuesta por los campos día, mes, año</li>
+  <li>Hora</li>
+  <li>Nº de Expte.</li>
+  <li>Cría./U.J.</li>
+</ol>
+
+
+<span style="font-weight: bold;"><br>1.</span> Campo de Texto donde se escribe Nombre y apellido del menor:<br>
+
+&nbsp;&nbsp;&nbsp; Ingresar en el campo correspondiente con el siguiente formato:<br><br>
+
+<div style="text-align: center;"><span style="font-weight: bold; font-family: Calibri;">APELLIDO, Nombre1 Nombre2</span><br>
+</div>
+<br><span style="font-style: italic;">Ejemplo:</span> "PEREZ, Juan Manuel"<br>
+<br>Si el menor de la causa está alojado, tildar la casilla de
+verificación que se encuentra en la parte inferior derecha con la
+etiqueta de "Alojado".<br><br><hr style="width: 100%; height: 2px;"><br>
+<span style="font-weight: bold;">
+2.</span> Campos de texto donde se debe ingresar Fecha de la audiencia, la cual está dividida en 3 campos: día, mes, y
+año y se muestra en la ventana el formato con el que deben ser
+ingresados estos datos: <br><br>
+<div style="text-align: center;"><span style="font-weight: bold; font-family: Calibri;">dd/mm/aaaa</span><br>
+<span style="font-weight: bold;"></span></div>
+<span style="font-weight: bold;"><br><textarea readonly="readonly" cols="50" rows="5" name="definicion de siglas">donde:
+
+dd = día =  01, 05, 10, 20, 30
+mm = mes = 01, 06, 12 
+aaaa = año = 2008, 2009, 2010</textarea><br><br></span><hr style="width: 100%; height: 2px;"><span style="font-weight: bold;"><br>
+</span><span style="font-weight: bold;">
+3.</span> Combo donde se escoge una la Hora de la audiencia<br>
+
+&nbsp;&nbsp;&nbsp; Se debe elegir una de las opciones disponibles en el grupo del combo. &nbsp; <select name="horas"><option></option><option>  08:00 hs          </option><option>09:00 hs</option><option>  10:00 hs          </option><option>  11:00 hs          </option><option>  12:00 hs          </option></select><br>
+
+<span style="font-style: italic;"><br>Nota: debe ser una hora válida. No se permite la elección de la opción nula<br><br>
+</span><hr style="width: 100%; height: 2px;"><span style="font-style: italic;"><br></span><span style="font-weight: bold;">4.</span> Ingresar Letra, Número de Expediente y año en caso que se trate de una actuación.<br>
+
+
+&nbsp;&nbsp;&nbsp; Ingresar Número de Expediente y año en caso que se trate de un expediente elevado al Juzgado.<br>
+<br>Ejemplo de los formatos a introducir:<br>
+
+
+<span style="font-weight: bold;">Para actuación:</span><br>
+
+
+&nbsp; &nbsp; "C" &nbsp;123/10<br>
+
+
+<span style="font-weight: bold;">Para expediente:</span><br>
+&nbsp;&nbsp;&nbsp; 123/10<br>
+
+<span style="font-style: italic;"><br>En ambos casos:</span><br style="font-style: italic;">
+
+<span style="font-style: italic;">&nbsp;&nbsp;&nbsp; 123 : es el número del expediente</span><br style="font-style: italic;">
+
+<span style="font-style: italic;">
+&nbsp;&nbsp;&nbsp; 10 : es el año. En este caso se trata del año 2010. En otro caso podría ser 09 para el 2009<br></span><span style="font-weight: bold;"></span><br>
+
+<hr style="width: 100%; height: 2px;"><br><span style="font-weight: bold;">5.</span> Comisaría o Unidad Judicial:<br>
+
+&nbsp;&nbsp;&nbsp; Ingresar el nombre de la comisaría o
+unidad judicial ante la que se tramita la actuación o ante la
+cual se inició la causa. Ingresar los datos en este campo con el siguiente formato:<br>
+<span style="font-style: italic;">
+Ejemplos:</span> "<span style="font-weight: bold;">Cria. 1</span>", "<span style="font-weight: bold;">Cria. 2</span>", "<span style="font-weight: bold;">U.J. 1</span>", "<span style="font-weight: bold;">U.J. 2</span>"<br><br><br><hr style="width: 100%; height: 2px;"><br>
+<br>
+Una vez finalizada la carga&nbsp;presionar el boton <img style="width: 89px; height: 23px;" alt="boton guardar" src="imagenes/boton_guardar.JPG" align="middle"> y si los datos fueron escritos correctamente se mostrará un mensaje de confirmación de la operación.<br><br><br><span style="font-family: Arial Unicode MS;">
+</span>
+ 
+</body></html>

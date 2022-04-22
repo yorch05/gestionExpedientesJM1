@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<toc version="1.0"> <!--  categoryclosedimage="FolderClosed" categoryopenimage="FolderOpened"  
+topicimage="ItemIco"-->
+        <tocitem text="Ayuda de JM1"    target="inicio">
+           <tocitem text="Descripción de menu principal"    target="menu_principal"/>
+           <tocitem text="Ingresar expediente"    target="ingresar_expte"/>
+           <tocitem text="Consultar expediente"    target="consultar_expte"/>
+           <tocitem text="Agregar audiencia"    target="agregar_audiencia"/>
+           <tocitem text="Consultar audiencia"    target="consultar_audiencia"/>
+           <tocitem text="Ingresar información del menor"    target="ingresar_info"/>
+           <tocitem text="Consultar información del menor"    target="consultar_info"/>
+        </tocitem>
+</toc>
